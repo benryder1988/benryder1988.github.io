@@ -1,0 +1,14 @@
+[
+  {
+    "name": "2025-01-01-welcome",
+    "title": "Welcome to My Blog",
+    "date": "2025-01-01",
+    "excerpt": "Welcome to my first blog post! This blog will feature updates, tutorials, and personal thoughts. Stay tuned for more content!"
+  },
+  {
+    "name": "2025-01-02-update",
+    "title": "Test Two",
+    "date": "2025-01-02",
+    "excerpt": "Here's a quick update: the new features for this project are rolling out, and I'm thrilled with the progress so far. More details coming soon!"
+  }
+]
